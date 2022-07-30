@@ -10,6 +10,7 @@ sudo yum erase codedeploy-agent -y
 
 # Remove the codedeploy-agent file from /opt directory
 cd /opt
+
 sudo rm -r codedeploy-agent/
 
 # Install the codedeploy-agent again.
