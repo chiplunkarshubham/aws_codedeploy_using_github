@@ -1,6 +1,6 @@
 # aws_codedeploy_using_github
 
-refer this first chiplunkarshubham/aws_code_deploy\
+Refer first chiplunkarshubham/aws_code_deploy as this is the continuation and userdata can also be found there.
 
 # How to fix
 CodeDeploy agent was not able to receive the lifecycle event. Check the CodeDeploy agent logs on your host and make sure the agent is running and can connect to the CodeDeploy server.
